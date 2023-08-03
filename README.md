@@ -8,10 +8,10 @@
 ### GET - http://127.0.0.1:8000/file-upload
 
 ### File upload view
-![laravelfileupload](https://github.com/EngrAbuhena/laravel-app-with-file-upload/blob/photos/fileupload01.PNG?raw=true)
+![laravelfileupload](https://github.com/EngrAbuhena/laravel-app-with-file-upload/blob/photos/fileupload01.png?raw=true)
 
 ### Choose a png file
-![laravelfileupload](https://github.com/EngrAbuhena/laravel-app-with-file-upload/blob/photos/fileupload02.PNG?raw=true)
+![laravelfileupload](https://github.com/EngrAbuhena/laravel-app-with-file-upload/blob/photos/fileupload02.png?raw=true)
 
 ### Try to upload a png file greater 2048kb
 ![laravelfileupload](https://github.com/EngrAbuhena/laravel-app-with-file-upload/blob/photos/fileupload03.PNG?raw=true)
